@@ -9,6 +9,7 @@
 </head>
 </head>
 <body>
+<h1 align="center">Aravind.C</h1>
 <h1 align="center">Welcome to Kryptos Technologies, chennai </h1>
 <h1 align="center"> Kryptos Technologies- Very Good Training center for DevOps with AWS in Maratha Halli Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
@@ -47,8 +48,8 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2022 by <a href="http://mithuntechnologies.com/">Mithun Technologies,Bengaluru</a> </small></p>
+<p align=center>Kryptos Technologies - Consultant, Training, Development Center.</p>
+<p align=center><small>Copyrights 2022 by <a href="http://mithuntechnologies.com/"KryptosTechnologies,Chennai</a> </small></p>
 
 </body>
 </html>
